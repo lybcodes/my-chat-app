@@ -29,7 +29,7 @@ My Chat App 是一个基于通义千问（Qwen）的开源聊天机器人应用�
 #### **克隆项目**
 如果你是从源码安装，请先克隆项目：
 ```bash
-git clone https://github.com/lybcodes/my-chat-app.git
+git clone git@atomgit.com:flow-step/my-chat-app.git
 cd my-chat-app
 ```
 #### **安装依赖**
