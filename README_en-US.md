@@ -29,7 +29,7 @@ Ensure your development environment meets the following requirements：
 #### **Clone the Projec**
 If you are installing from source, clone the project first：
 ```bash
-git clone git@atomgit.com:flow-step/my-chat-app.git
+git clone git@github.com:lybcodes/my-chat-app.git
 cd my-chat-app
 ```
 #### **Install Dependencies**
