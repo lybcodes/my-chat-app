@@ -1,0 +1,5 @@
+build/*
+.idea
+.venv
+.venv1
+my_chat_app.egg-info
